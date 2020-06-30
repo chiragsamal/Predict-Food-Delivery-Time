@@ -49,4 +49,4 @@ Predicts the classes for the test set.
 #### Training Score is 0.774 and Testing Score is 76.901
 
 
-Link to the Hackathon: https://www.machinehack.com/course/predicting-food-delivery-time-hackathon-by-ims-proschool/
+Link to the Hackathon: [Predict Food Delivery Time](https://www.machinehack.com/course/predicting-food-delivery-time-hackathon-by-ims-proschool/)
